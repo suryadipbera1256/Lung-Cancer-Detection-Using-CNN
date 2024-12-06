@@ -16,6 +16,7 @@ Squamous cell carcinoma starts in squamous cells, which are flat cells that line
 # Large cell (undifferentiated) carcinoma:
 Large cell carcinoma can appear in any part of the lung. It tends to grow and spread quickly, which can make it harder to treat. A subtype of large cell carcinoma, known as large cell neuroendocrine carcinoma (LCNEC), is a fast-growing cancer that is very similar to small cell lung cancer.
 
+# Dataset :
 We collected data from Kaggle The dataset contains  CT-scan of NON-SMALL CELL LUNG CANCER
 *Adenocarcinoma
 *Large cell carcinoma
@@ -24,9 +25,8 @@ We collected data from Kaggle The dataset contains  CT-scan of NON-SMALL CELL LU
 
 dataset link :- https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
 
-Here, the Inseption V3 model is more precise.
-
 # Comparision :
+Here, the Inseption V3 model is more precise.
 
 ![compra](https://github.com/user-attachments/assets/8e438bf9-ea67-4970-aaf7-4111560f01ec)
 
