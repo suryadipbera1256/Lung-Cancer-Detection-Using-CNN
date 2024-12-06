@@ -25,10 +25,12 @@ We collected data from Kaggle The dataset contains  CT-scan of NON-SMALL CELL LU
 dataset link :- https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
 
 Here, the Inseption V3 model is more precise.
-Comparision :
+
+# Comparision :
+
 ![compra](https://github.com/user-attachments/assets/8e438bf9-ea67-4970-aaf7-4111560f01ec)
 
-Output:
+# Output:
+
+
 ![Screenshot 2024-12-06 225338](https://github.com/user-attachments/assets/aacc5d8a-09a8-4f0d-a6ec-d8c22178b1c8)
-
-
