@@ -1,0 +1,10 @@
+# Requirements for Lung-Cancer-Detection-Using-CNN
+# TensorFlow includes Keras (use tf.keras in the notebooks). If you prefer the standalone keras package, install it separately.
+
+tensorflow>=2.11.0
+numpy>=1.24.0
+pandas>=1.5.0
+matplotlib>=3.5.0
+opencv-python>=4.7.0
+Pillow>=9.4.0
+h5py>=3.8.0
