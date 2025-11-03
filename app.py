@@ -3,8 +3,9 @@ import streamlit as st
 
 import numpy as np
 from PIL import Image
-from tensorflow.keras.preprocessing import image
-from tensorflow.keras import models
+from tensorflow import keras
+from tensorflow.keras.preprocessing import image # pyright: ignore[reportMissingImports]
+from tensorflow.keras import models # pyright: ignore[reportMissingImports]
 
 st.title("Lung Cancer Classification Using CNN")
 st.text("Upload a scan for Classification")
