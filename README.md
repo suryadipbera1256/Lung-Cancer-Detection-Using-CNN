@@ -1,9 +1,9 @@
-# 🫁 Lung Cancer Detection Using CNN  
+# Lung Cancer Detection Using CNN  
 Deep Learning–Based Early Detection of Lung Cancer Using CT-Scan Images
 
 ---
 
-## 📖 Project Overview  
+## Project Overview  
 Lung cancer is one of the leading causes of cancer-related deaths worldwide.  
 Early detection significantly improves survival rates.
 
@@ -18,7 +18,7 @@ The goal is to develop a high-accuracy, clinically interpretable system that sup
 
 ---
 
-## 🎯 Objectives  
+## Objectives  
 - Build a multi-class lung cancer classifier using CNN  
 - Compare baseline vs. transfer learning performance  
 - Reduce false negatives (critical in cancer diagnosis)  
@@ -27,9 +27,9 @@ The goal is to develop a high-accuracy, clinically interpretable system that sup
 
 ---
 
-## 📊 Model Performance (WITH METRICS)
+## Model Performance (WITH METRICS)
 
-### **📌 Baseline Model — Custom CNN**
+### ** Baseline Model — Custom CNN**
 | Metric | Score |
 |--------|--------|
 | **Accuracy** | 89.7% |
@@ -42,7 +42,7 @@ The goal is to develop a high-accuracy, clinically interpretable system that sup
 
 ---
 
-### **📌 Final Model — InceptionV3 (Best Model)**  
+### ** Final Model — InceptionV3 (Best Model)**  
 | Metric | Score |
 |--------|--------|
 | **Accuracy** | **94.3%** |
@@ -56,7 +56,7 @@ The goal is to develop a high-accuracy, clinically interpretable system that sup
 
 ---
 
-## 🔎 Overfitting Analysis  
+##  Overfitting Analysis  
 ### **Training vs Testing Metrics (InceptionV3)**  
 - Training Accuracy: **95.8%**  
 - Testing Accuracy: **94.3%**  
@@ -74,7 +74,7 @@ Result: **Only 1.5% train-test gap — Excellent generalization.**
 
 ---
 
-## 🧪 Dataset  
+## Dataset  
 - **Source:** Kaggle Chest CT Scan Images  
 - **Dataset Size:** 4,000+ images  
 - **Image Type:** CT-Scans  
@@ -98,7 +98,7 @@ Result: **Only 1.5% train-test gap — Excellent generalization.**
 
 ---
 
-## 🧠 Model Architecture  
+##  Model Architecture  
 
 ### ✔ **1. Custom CNN**
 - 3 Convolutional layers  
@@ -117,7 +117,7 @@ Result: **Only 1.5% train-test gap — Excellent generalization.**
 
 ---
 
-## 🧩 End-to-End Pipeline  
+##  End-to-End Pipeline  
 - Data cleaning & resizing  
 - Image normalization  
 - Augmentation (rotation, shear, zoom, flips)  
