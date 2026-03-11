@@ -29,7 +29,8 @@ The goal is to develop a high-accuracy, clinically interpretable system that sup
 
 ## Model Performance (WITH METRICS)
 
-### ** Baseline Model — Custom CNN**
+### **Baseline Model — Custom CNN**
+
 | Metric | Score |
 |--------|--------|
 | **Accuracy** | 89.7% |
@@ -42,7 +43,7 @@ The goal is to develop a high-accuracy, clinically interpretable system that sup
 
 ---
 
-### ** Final Model — InceptionV3 (Best Model)**  
+### **Final Model — InceptionV3 (Best Model)**  
 | Metric | Score |
 |--------|--------|
 | **Accuracy** | **94.3%** |
